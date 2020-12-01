@@ -1,3 +1,5 @@
+# Copyright (c) 2019-2020
+
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
